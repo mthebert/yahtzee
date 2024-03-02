@@ -1,2 +1,5 @@
-# yahtzee
-I wanted to make a version of the popular dice game Yahtzee and build on it, starting with a simple HTML/JS/CSS version and go from there
+# Yahtzee v1.0
+
+A simple web-based HTML/CSS/JS version of the popular dice game, Yahtzee
+
+All files needed to run are in the `public` folder and runs completely in the browser
